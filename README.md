@@ -3,7 +3,7 @@
 ⚠️ **Atenção:** Este repositório contém apenas uma parte do código do projeto.  
 O programa completo está funcionando no vídeo demonstrativo abaixo.
 
-📺 **Assista ao vídeo do projeto completo aqui:** [link do vídeo]
+📺 **Assista ao vídeo do projeto completo aqui:** [[link do vídeo](https://youtu.be/aosbkMJV0l8)]
 
 ---
 
